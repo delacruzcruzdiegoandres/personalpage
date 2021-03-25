@@ -45849,7 +45849,7 @@ N.VS.prototype={
 $1:function(a){return!0},
 $S:40}
 F.xk.prototype={
-M:function(a,b){return new S.pc(new F.pq("Flutter Demo Home Page",null),"\xa1Hoy es el momento ideal!",X.a2b(null,C.e2,X.a2k()),null)}}
+M:function(a,b){return new S.pc(new F.pq("El arte de programar",null),"\xa1Hoy es el momento ideal!",X.a2b(null,C.e2,X.a2k()),null)}}
 F.pq.prototype={
 aP:function(){return new F.t3(C.m)}}
 F.t3.prototype={
